@@ -1,0 +1,47 @@
+site_name: NurseNotes Documentation
+site_url: https://CanelaSoftware.github.io/NN_Documentation
+repo_url: https://github.com/CanelaSoftware/NN_Documentation
+edit_uri: edit/main/docs/
+theme:
+  name: material
+  palette:
+    primary: light green
+    accent: light green
+  logo: assets/logo.svg
+  favicon: assets/logo.svg
+  features:
+    - content.action.edit
+markdown_extensions:
+  - attr_list
+  - md_in_html
+  - pymdownx.blocks.caption
+  - admonition
+  - tables
+
+nav:
+  - Home: index.md
+  - Introduction:
+      - Introduction: introduction/introduction.md
+      - What's Included: introduction/what-is-included.md
+      - Getting Started: introduction/getting-started.md
+#   - Vision Screening:
+#   - Audiometry Screening:
+#   - Other Screenings and  Documentation:
+#   - Printing Documents:
+#   - Analytics, Status, Accounts, and Settings:
+#   - Hotkeys:
+copyright: Copyright &copy; Canela Software
+extra:
+  generator: false
+  social:
+    - icon: fontawesome/brands/discord
+      link: https://discord.gg/27A3eTAG
+    - icon: fontawesome/brands/linkedin
+      link: https://www.linkedin.com/company/canela-software-inc/
+    - icon: fontawesome/brands/bluesky
+      link: https://bsky.app/profile/appli-io.bsky.social
+    - icon: fontawesome/brands/instagram
+      link: https://www.instagram.com/appli_io/
+plugins:
+  - git-revision-date-localized:
+      enable_creation_date: true
