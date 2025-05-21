@@ -1,28 +1,36 @@
-# Welcome to Quizli Documentation
+# Every district’s dilemma:
 
-<figure markdown="span">
-![Banner](assets/quizli-devices.png)
-</figure>
+In many schools, data is manually entered into the student information system by school nurses—a time-consuming task that takes them away from the needs of students.  This manually entered data is often hours of work, and very often, not entered at a time that can actually be useful to anyone.  Plus, transcription errors are inevitable.  
 
-!!! note
+# NurseNotes Is the solution:
 
-    Quizli is current in _beta_ and this documentation is evolving fast with the app itself. Keep checking back here to see what new features and workflows are unlocked as Quizli approaches release.
+Our software records students’ mass screening results __as you test them__. This means you don’t need to copy data anywhere — results are saved automatically.  Developed in accordance with federal standards, Our state-of-the-art vision and audiometry package provides you with the means to conduct screenings, capture results automatically, and deliver that data to an EMR or SIS—quickly and accurately.
 
-**Transform your classroom with engaging e-learning activities**
+# Offline Access:
 
-Quizli is the essential learning management platform that delivers seamless
-end-to-end testing solutions for educators.
+NurseNotes is able to record student vision and hearing screenings and other medical data both **with or without internet connectivity**.
 
-## Teachers
+This means that when you’re doing a mass screening in the gym with limited or no internet, you can just keep screening. NurseNotes will automatically save the screening results on your computer, and the next time you log in when you have internet access, it will automatically upload your saved results.
 
-- [Running a Quiz](teachers/running-a-quiz.md)
-- [Creating a Quiz](teachers/creating-a-quiz.md)
-- [Creating a Quiz with AI](teachers/creating-a-quiz-with-ai.md)
+You never have to worry about the internet the way you do with websites 
 
-## Students
+| Features |   |
+| ----------------------------------- | -----------------|
+| NurseNotes Record-keeping Software | :material-check: |
+20/20 Vision Software - including Near/Distance, Color Vision, Astigmatism, Muscle Balance. Also includes PattiPics, HOTV, Allen Pics, and other optotypes	| :material-check: |
+| Remote Control / Receiver	| :material-check: |
+| Audiometry Software	| :material-check: |
+| Audiometry Headphones	| :material-check: |
+| iPad Control Software Program	| :material-check: |
+| Complimentary Installation	| :material-check: |
+| Tech Support via phone/email	| :material-check: |
+| "Complimentary Training Available (Onsite or Webinar)"	| :material-check: |
+| Auto updates for the life of the membership	| :material-check: |
+| Automated Record Keeping 	| :material-check: |
+| Physical and Dental Assessment Forms	| :material-check: |
+| Documentation Inputs	| :material-check: |
+| Two-way SIS Integration	| :material-check: |
+| Auto-populated Referral Letters	| :material-check: |
+| Multiple Print Forms	| :material-check: |
 
-- [Taking a Quiz](students/take-quiz.md)
-
-<figure markdown="span">
-![Welcome Huffy](assets/Welcome Huffy.png){style="max-height: 400px;"}
-</figure>
+You never have to worry about the internet the way you do with websites and web applications — **NurseNotes is always available!**

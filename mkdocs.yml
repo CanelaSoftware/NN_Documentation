@@ -7,28 +7,57 @@ theme:
   palette:
     primary: light green
     accent: light green
-  logo: assets/logo.svg
-  favicon: assets/logo.svg
+  logo: assets/nn-icon.png
+  favicon: assets/nn-icon.png
   features:
     - content.action.edit
 markdown_extensions:
   - attr_list
   - md_in_html
-  - pymdownx.blocks.caption
   - admonition
   - tables
+  - attr_list
+  - pymdownx.blocks.caption
+  - pymdownx.details
+  - pymdownx.superfences
+  - pymdownx.critic
+  - pymdownx.caret
+  - pymdownx.keys
+  - pymdownx.mark
+  - pymdownx.tilde
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
+#   - toc:
+#       permalink: true
+#       toc_depth: 3
 
 nav:
-  - Home: index.md
   - Introduction:
-      - Introduction: introduction/introduction.md
+      - Introduction: index.md
       - What's Included: introduction/what-is-included.md
       - Getting Started: introduction/getting-started.md
-#   - Vision Screening:
-#   - Audiometry Screening:
-#   - Other Screenings and  Documentation:
-#   - Printing Documents:
-#   - Analytics, Status, Accounts, and Settings:
+  - Vision Screening: 
+      - Starting a Vision Test: vision-screening/vision-screening.md
+      - How To Vision Screen: vision-screening/how-to-vision-screen.md
+      - Vision Results: vision-screening/vision-results.md
+      - Manual Vision Screening: vision-screening/manual-vision-screening.md
+      - PhotoScreener Integration: vision-screening/photoscreener-integration.md
+  - Audiometry Screening: 
+      - Audiometry Hardware: audiometry-screening/audiometry-hardware.md
+      - Starting a Hearing Screen: audiometry-screening/starting-a-hearing-screen.md
+      - How To Screen Hearing: audiometry-screening/how-to-screen-hearing.md
+  - Other Screenings and  Documentation:
+    - Physicals: other-screenings/physicals.md
+    - Dental: other-screenings/dental.md
+    - RN Notes and Treatments: other-screenings/rn-notes-and-treatments.md
+    - Assessment: other-screenings/assessment.md
+    - Documents: other-screenings/documents.md
+  - Printing Documents:
+    - Print Center: printing-documents/print-center.md
+    - Other Printing: printing-documents/other-printing.md
+  - Analytics, Status, Accounts, and Settings:
+    - Analytics: analytics-status-accounts-settings/analytics.md
 #   - Hotkeys:
 copyright: Copyright &copy; Canela Software
 extra:
@@ -45,3 +74,4 @@ extra:
 plugins:
   - git-revision-date-localized:
       enable_creation_date: true
+  - search
