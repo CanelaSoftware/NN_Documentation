@@ -35,7 +35,7 @@ markdown_extensions:
 nav:
   - Introduction:
       - Introduction: index.md
-      - What's Included: introduction/what-is-included.md
+#       - What's Included: introduction/what-is-included.md
       - Getting Started: introduction/getting-started.md
   - Vision Screening: 
       - Starting a Vision Test: vision-screening/vision-screening.md

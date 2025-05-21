@@ -34,3 +34,27 @@ Calibration is necessary in order for your computer to draw the Vision Screening
 * Diagonally measure your computer's screen, in inches. (Don’t include the frame of the screen).
 * Then enter that measurement into the field on top of the image of a screen.
 Click the “x” in the top right to exit the Settings menu.
+
+## Changing HotKeys
+
+![Changing Hotkeys](../media/nn-change-hotkeys.png)
+
+This menu will allow you to update hotkeys for both the remote control and the keyboard, specifically for when you are doing Vision Screenings. The default hotkeys can be found on page X. To change a hotkey:
+
+* Click the lock image (1) in the bottom left to open it.
+* Go to the dropdown menu under Input Source (2).  Select either **Keyboard** or **Remote 2009b**, depending on if you want to change a hotkey for remote control, or for keyboard.
+* Click on the command you want to change from the list at the right (3).
+* If you are updating a keyboard hotkey, press the new key you want to use for this command. It will show up under “Current Hotkey” (4).
+* If you are updating a remote control hotkey, press the new button you want to use for this command.
+* A dialogue may appear asking if you want to override the current binding. Click OK.
+* Click Done (5).
+
+## Lock Code
+
+![Lock Code](../media/nn-lock-code.png)
+
+Every computer using NurseNotes has a special LOCK CODE (a.k.a. computer code) associated with it. Clicking the “Lock Code” option in Settings will show a popup with the 8 digit code. You may need this code when calling in to the NurseNotes support team. You can also access this code when you are NOT logged in, as part of the hamburger menu.
+
+## About
+
+Clicking on this icon brings up the about screen.  This screen shows what version of NurseNotes you are using as well as the lock code and change log.
