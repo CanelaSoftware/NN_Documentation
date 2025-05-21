@@ -11,6 +11,7 @@ theme:
   favicon: assets/nn-icon.png
   features:
     - content.action.edit
+    - navigation.footer
 markdown_extensions:
   - attr_list
   - md_in_html
