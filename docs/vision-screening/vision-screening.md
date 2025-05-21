@@ -7,7 +7,7 @@ After selecting a student, you will see a dropdown list (1), along with a “Sta
 
 !!! note
 
-    If you haven’t calibrated your screen yet, please do so before starting a vision screening. (See [Calibration](../analytics-status-accounts-settings/calibration.md))
+    If you haven’t calibrated your screen yet, please do so before starting a vision screening. (See [Calibration](../analytics-status-accounts-settings/settings.md#calibration))
 
 The dropdown shows all possible Protocols that can be used to test a student. These are the different tests you have available — for instance 10ft Distance, Near, and Color.  We can customize these if you want to have different protocols — you may want to have a 6ft distance test, for when you don’t have enough space to do a 10ft distance screening. Additionally, the dropdown has options for Manual testing (4) and PlusOptix photoscreener integration (5). We’ll cover these later.
 
